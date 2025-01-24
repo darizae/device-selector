@@ -1,7 +1,0 @@
-Metadata-Version: 2.2
-Name: device-selector
-Version: 0.1.0
-Summary: A small library for selecting the best device for PyTorch
-Author-email: Your Name <you@example.com>
-Requires-Python: >=3.8
-Requires-Dist: torch>=1.9.0
