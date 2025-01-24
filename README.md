@@ -15,4 +15,4 @@ A small Python library to automatically pick the best available PyTorch device.
 ## Installation
 
 ```bash
-pip install https://github.com/darizae/device-selector/releases/download/v0.1.0/device_selector-0.1.0-py3-none-any.whl
+pip install device-selector
