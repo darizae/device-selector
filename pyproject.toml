@@ -35,3 +35,4 @@ test = [
 
 [tool.setuptools.packages.find]
 where = ["."]
+exclude = ["tests", "tests.*"]
