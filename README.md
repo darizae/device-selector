@@ -16,3 +16,7 @@ A small Python library to automatically pick the best available PyTorch device.
 
 ```bash
 pip install device-selector
+
+## Agent-assisted setup
+
+[Open the agent setup page](https://darizae.github.io/device-selector/) or [copy the plain-text prompt](docs/agent-setup.txt) into your coding agent. Review its proposed changes and verification results.
